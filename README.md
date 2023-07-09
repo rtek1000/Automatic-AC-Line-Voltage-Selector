@@ -6,8 +6,8 @@ Automatic selector for 110VAC or 220VAC
 -
 - Operating mode is simple: the normally closed contact (NC) is for higher voltage connection (220V), when the AC line voltage is about 140Vac or less, the relay is activated.
 - - The circuit has no hysteresis, so it may oscillate if the AC line voltage is at the threshold.
-
-- - Note: The wire colors in the example are merely illustrative:
+-
+- Note: The wire colors in the example are merely illustrative:
 
 ![img](https://raw.githubusercontent.com/rtek1000/Automatic-AC-Line-Voltage-Selector/main/Doc/Manual%20selector%20example%201.png)
 
