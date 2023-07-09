@@ -1,6 +1,9 @@
 # Automatic-AC-Line-Voltage-Selector
 Automatic selector for 110VAC or 220VAC
 
+- Usable for equipment that works with only 110V or for 110V or 220V devices with manual switch selection.
+- - It can operate with only 1 relay, but the 47V zener diode must be kept in the scheme so as not to force the MOSFET.
+
 Schematic:
 ![img](https://raw.githubusercontent.com/rtek1000/Automatic-AC-Line-Voltage-Selector/main/Doc/Automatic%20AC%20Line%20Voltage%20Selector.png)
 
