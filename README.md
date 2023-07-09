@@ -6,8 +6,6 @@ Automatic selector for 110VAC or 220VAC
 -
 - Operating mode is simple: the normally closed contact is for higher voltage connection (220V), when the AC line voltage is about 140Vac or less, the relay is activated.
 
-![img](https://raw.githubusercontent.com/rtek1000/Automatic-AC-Line-Voltage-Selector/main/Doc/Manual%20selector%20example.png)
-
 Schematic:
 ![img](https://raw.githubusercontent.com/rtek1000/Automatic-AC-Line-Voltage-Selector/main/Doc/Automatic%20AC%20Line%20Voltage%20Selector.png)
 
