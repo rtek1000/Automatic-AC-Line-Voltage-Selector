@@ -1,7 +1,7 @@
 # Automatic-AC-Line-Voltage-Selector
 Automatic selector for 110VAC or 220VAC
 
-- Usable for equipment that works with only 110V or for 110V or 220V devices with manual switch selection.
+- Usable for equipment that works with only 110V or for 110V / 220V devices with manual switch selection.
 - - It can operate with only 1 relay, but the 47V zener diode (D4, D5) must be kept in the scheme so as not to force the MOSFET (Q2).
 -
 - Operating mode is simple: the normally closed contact (NC) is for higher voltage connection (220V), when the AC line voltage is about 140Vac or less, the relay is activated.
