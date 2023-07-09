@@ -12,7 +12,7 @@ Automatic selector for 110VAC or 220VAC
 ![img](https://raw.githubusercontent.com/rtek1000/Automatic-AC-Line-Voltage-Selector/main/Doc/Manual%20selector%20example%201.png)
 
 Schematic:
-![img](https://raw.githubusercontent.com/rtek1000/Automatic-AC-Line-Voltage-Selector/main/Doc/Automatic%20AC%20Line%20Voltage%20Selector.png)
+![img](https://github.com/rtek1000/Automatic-AC-Line-Voltage-Selector/blob/main/Doc/Automatic%20AC%20Line%20Voltage%20Selector%201.png)
 
 Board:
 ![img](https://raw.githubusercontent.com/rtek1000/Automatic-AC-Line-Voltage-Selector/main/Doc/Automatic%20AC%20Line%20Voltage%20Selector%20TL431_1.png)
