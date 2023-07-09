@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Automatic AC voltage selector")
+    (date "2023-07-09")
+    (rev "1.0")
+    (company "RTEK1000")
+  )
+
   (lib_symbols
     (symbol "Connector_Generic:Conn_01x02" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
       (property "Reference" "J" (at 0 2.54 0)
